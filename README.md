@@ -1,3 +1,7 @@
-# test
+# Bienvenido
+Este será el readme we
 
-Bienvenido al readme
+# Tareas para hoy
+Aqui esta la primer tarea
+Aqui esta la segunda tarea
+Aqui esta la tercer tarea
